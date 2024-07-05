@@ -1,2 +1,2 @@
-# HEALTH-CARE-CALL-CENTER
+# HEALTH-CARE-CALL-CENTER [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13Wj_wPqIQQvfde6A8AAhzPBvdMCZjjhG?userstoinvite=dhatchayanim.aiml2023%40citchennai.net&sharingaction=manageaccess&role=writer#scrollTo=dSXHUuqoKLtt]
 This project transcribes audio files, identifies speakers, and analyzes sentiment while ensuring HIPAA compliance. The workflow includes converting audio to mono, transcribing with Whisper, extracting speaker embeddings, clustering to identify speakers, and performing sentiment analysis on the conversation.
