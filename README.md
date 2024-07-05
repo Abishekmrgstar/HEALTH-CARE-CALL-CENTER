@@ -1,4 +1,4 @@
-# Audio Transcription and Analysis [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13Wj_wPqIQQvfde6A8AAhzPBvdMCZjjhG?userstoinvite=dhatchayanim.aiml2023%40citchennai.net&sharingaction=manageaccess&role=writer#scrollTo=dSXHUuqoKLtt)
+# Audio Transcription and Analysis [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13Wj_wPqIQQvfde6A8AAhzPBvdMCZjjhG)
 
 This project aims to transcribe audio files, identify speakers, and analyze sentiment while ensuring HIPAA compliance.
 
